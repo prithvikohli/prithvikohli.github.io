@@ -9,15 +9,11 @@ layout: default
 * * *
 ## PEngine
 ![PEngine render](https://github.com/prithvikohli/PEngine/blob/main/render.PNG?raw=true)
-Game engine I'm making using C++ and OpenGL to learn real-time rendering.
-
-[View on GitHub](https://github.com/prithvikohli/PEngine)
+Game engine I'm making using C++ and OpenGL to learn real-time rendering. [View on GitHub](https://github.com/prithvikohli/PEngine)
 
 ## PTrace
 ![PTrace render](https://github.com/prithvikohli/PTrace/raw/main/render.png?raw=true)
-Ray tracer I'm building in C++ to learn ray tracing and physically-based rendering.
-
-[View on GitHub](https://github.com/prithvikohli/PTrace)
+Ray tracer I'm building in C++ to learn ray tracing and physically-based rendering. [View on GitHub](https://github.com/prithvikohli/PTrace)
 
 ## Game Development
 ![Super Boson](https://pbs.twimg.com/profile_banners/760599067521089536/1587232648/1500x500)
