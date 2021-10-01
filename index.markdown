@@ -16,5 +16,6 @@ Game engine I'm making using C++ and OpenGL to learn real-time rendering. [View 
 Ray tracer I'm building in C++ to learn ray tracing and physically-based rendering. [View on GitHub](https://github.com/prithvikohli/PTrace)
 
 ## Game Development
-![Super Boson](https://img.itch.zone/aW1nLzMzMDI2MzYucG5n/315x250%23c/nK0raO.png)
+![Super Boson](https://img.itch.zone/aW1nLzMzMDI2MzYucG5n/315x250%23c/nK0raO.png)  
+
 I've designed and developed various small games in Unity with C#, including a puzzle action game about Particle Physics called Super Boson that won the 2018 BAFTA Young Game Designers Game Making Award, which you can read about [here](https://www.bafta.org/supporting-talent/young-game-designers/prithvi-kohli-young-game-designer). I made a new version of the game that I showcased at EGX 2019, which you can see [here](https://prithvikohligames.itch.io/super-boson-demo)
