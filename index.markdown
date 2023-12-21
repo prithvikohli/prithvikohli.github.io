@@ -14,7 +14,7 @@ Project I did as a Research Intern in the Virtual Environments and Comptuer Grap
 # Projects
 * * *
 ## Cray
-GPU path tracer built from scratch in Vulkan. Check back here for more updates. [View code here](https://github.com/prithvikohli/cray) (very much in development!)
+GPU path tracer built from scratch in Vulkan. Check back here for more updates. [View code here](https://github.com/prithvikohli/cray) **(very much in development!)**
 
 ## Game Development
 ![Super Boson](https://img.itch.zone/aW1nLzMzMDI2MzYucG5n/315x250%23c/nK0raO.png)  
